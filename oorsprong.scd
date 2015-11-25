@@ -2,8 +2,6 @@
 /////// OORSPRONG AMSTERDAM - NOVEMBER 23 * 2015 \\\\\\\
 ////////////////////////////////////////////////////////
 
-///// sara.amadeh@gmail.com
-
 ///////// FREEESTYLE LIVECODING \\\\\\\\\\\\
 
 Ndef(\n, {}).play
